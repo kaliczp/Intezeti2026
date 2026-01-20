@@ -1,0 +1,286 @@
+#+TITLE: <2026-01-20 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- CzKo
+- BaTa
+- BrGá
+- KiBa
+- ZKKA
+- GrZo
+** Online
+- HeAn
+
+* HarveszterSzimul
+Jövő hétre átteszi Balázs
+
+* Védések
+Abdalrahman ráér, Ferrat holnap nem véd. Még nem tudják, mikor.
+Jövő hét elején.
+
+* HUN-REN FI GKKI
+Aki doktori tárgyat indít részmunkaidősen foglalkoztatják.
+Kornél programjába kerültek.
+
+* Múlt hét
+
+** Védés
+Sikeres védések. Ennyi védő nem volt korábban.  A 16 hallgató
+rekord. Viszonylag magas színvonalú munkák. A 3.67 a legalacsonyabb.
+Köszöni a konzulenseknek.
+
+** Záróvizsga
+Eredmények. Újpesit Krisztián. Torma is lécrezgős.
+
+** Egyéb
+Növényvédelmi szakmérnöki védés és záróvizsga.
+
+* Munkaterv
+A 2026-os, amit táblázatba kell kitölteni.
+
+** Szakokat bemutató anyag készítése
+Szakfelelős intézetében. Frissített anyag. Kezdő dátum, frissítés ideje.
+Nyomtatott és digitális. CzKo: Nyílt napi bemutatót frissíti mindig.
+
+Szakról kiadni többi szakkal. Jún. 30. határidő.
+
+Az anyag 44 soros.
+
+** Digitális tananyag
+RRF-hez kapcsolódó anyagok elkészítése. Megoszlottak a dolgok.
+Még Kornélnak van fejlesztés. Korábban befejezett anyagok? Előző
+félévben csinálták PrimuszP. Előző félévben készült, de összeállt.
+
+- Erdészeti utak tervezése, építése és fenntartása
+- Geoinformatika
+- Balázsnak van hallgatói induló IT-s anyag, Hallgatói IT munkacím
+
+** Digitális tananyagfejlesztés2
+Teljes tananyag kiválasztása. KTI ESG, további szakok fejlesztése, realitás,
+időbeli tervezés.
+
+Geobioinformatika, új tárgyak. Adott félévben digitális
+tananyag. Specializáció, vagy új szakok. Agrárerdészeti szak. ESG online
+elérhető, felvesznek.
+
+Balázs műszaki szakirány.
+
+Geobioinformatikában vendégelőadók.
+
+Földmérők ingatlan-nyilvántartás? Teljes szakot bevállaljunk, valami vállalás.
+Két tantárgy bevállalása. Roth-osok plusz képzése.
+
+HUN-EDU beírni. Tantárgyi program kell. Geostatisztika. Egy tárgynak kell a tananyagát
+kidolgozni. Egyet fehérvár, 8-at a datelit.
+
+** ESG angolnyelv
+Nem érintett az intézet.
+
+** Javaslattétel új mikrotanusítvány
+Legyen kimenete, legyen motiváció, hogy valaki elvégezze. 2026-os terv, beírunk,
+ami javaslat.
+
+Drónos mikrotanúsítvány, korszerű; aktív-passzív távérzékelés, Bokodi,
+VKI ajánljunk ki erdőgazdaságoknak. Papp Laci féle beszerzések,
+permezető helikopterek Hoczek agrárképzési centrumban. Minden szakközépből végez valaki
+kategóriákat, A1-A3, A2, specializáció. Holnap mennek hozzá Gézáék.
+
+** Felsőoktatás, pedógia
+2026-06-30 egy tananyag kidolgozása nélkül, felsőoktatás pedagógia.
+Felsőoktatás-pedagógia Pepsi
+
+Jövő hét. Hasznos előadás sorozat. 4-5 embert beírt géza.
+
+** Digitális tantermek használata
+Moodle kurzus elvégzése. Tartottak képzést. Belépsz a moodlebe, kipipálod.
+Földtudományok, Kornélé felduzzasztva és kiválik.
+
+** KIVV, kutatás szolgáltatás
+LCA life-cycle-assesment
+
+Karbon Kredit Validáció
+
+** Agroerdészeti rendszerek
+Liofilizációs
+
+** Távérzékelés
+Minimum nettó 10 mio Ft bevétel. DALERD lesz bevétel.
+Evelin? Műholdas. Abból is lesz.
+BorderEye szolgáltatás.
+
+** Erdészeti Tudományos Konferencia
+
+** Publikációs tevékenység
+Intézetünkre előírás
+53 MTMT 13 WOS-scopus. Doktoranduszokkal együtt.
+
+Nem osztjuk le személyesen, intézeti szinten egybe írjuk. Külsősök a GGKI-ból.
+
+** AM ÉCST SoilSense
+Terepi mérések Botonddal, adatok. Ács-Komárom közötti Erdőssztyepp. Rédénél a harmadik.
+
+** AM ÉCST 3 Geobioinformatika
+Drónnal vagy műholddal segíteni.
+
+** AM ÉCST 3 Karbonkredit
+Polgár András vezeti, tud a szánkészlet meghatározási módszerünkről.
+
+** AM ÉCST 3 Vízgazdálkodás
+Kalicz Péter
+
+** AM Erdőrezervátum
+Bidló
+
+** BorderEye projekt
+Végrehajtása.
+
+** ErdőLab
+Dékáni szint.
+
+** TéT
+Törökorzság Sipos
+
+** Refores, Agrosus
+
+** ESA HUN-EDU
+
+** Talajtani társaság
+
+** Nemzetközi szint
+
+** Marteloscope
+Resilience, intézetek Zagyvai Gergely
+
+** IUFRO jogi csoport
+
+** Nemzetközi kapcsolat tartás
+
+** Külföldi partnerek fogadása, új kapcsolatok, és további kapcsolatok építése
+Van-e esetleg külföldi partnerek fogadása? Új kapcsolat, korábbi ápolása.
+
+Zólyom, Waheningen.
+
+Jaroslav
+
+** Saját hallgató
+Megyer-Muraközy Lili UBC
+Benke Dénes UBC
+
+** Saját oktató
+Oktatás, minimum 7 alkalom, minimum 2 fő.
+Pannóniában nagyon sok pénz van, elérhető a második körös.
+
+Pannónia aktív részvétellel támogatja a konferenciát. 4 naposra nem végig.
+
+* Autók
+Múlt héten lemerültek.
+
+A Toyota akkumulátor régi. Leolvasom az amperórát.
+
+* Lechner
+Gézát felhívták. Egyedüli felsőfokú képző intézmény nincs aktuális együttműködés.
+Géza írt egy szándéknyilatkozatot. Jogászok által átnézett mintát.
+
+Törvényben meghatározott, hogy mihez, hogyan lehet hozzáférni.
+
+Asztalfő projekt beszkennelése és még volt vagy három.
+
+Ez egy keretmegállapodás lenne!
+
+Varga Norbert alaphálózati és államhatárügyi osztály.
+
+Felajánlották, hogy E-ING-ről tartanak előadást, hivatalból kötelező.
+
+** Magyar-osztrák államhatárügyi
+56 fős tárgyalás, ahol lefolytatnánk.
+
+Ligneum vagy Szenátus? Erdőháza?
+
+* Zoli elment
+
+* Lechner folyt
+** Alappont Várhelyen
+Gábornál
+Várhely kilátó negyedrendű alappont TAEG lebontaná, alappont
+helyreállítási, létesítési munkák.
+
+Hallgatói feladat?
+
+Bige Zoli kereste a Lechnertől Gézát.
+
+** Analóg térképek
+Ami kint volt a teróületen.
+
+Archív anyagok Bencével elindítva. GeoShop-ról leszedtek egy évjárat fényképet.
+
+Országos topo térkép is benne van?
+
+Ha ötlet van, rá kell kérdezni, szerteágazó a portfólió. Változik, frissül.
+
+* NagySzkenner beszerzés
+Egy mondatos vagy egy bekezdéses indoklás. Dinának kellene. Miért kell a sokkal
+drágább? SoiSens szempontjából. Gépjárműre feltehető? Nagyobb területi felmérés,
+vizsgálnák a gépjárműről felvételt.
+
+* Hidrológiai ülésről küldtek
+Műhelybeszélgetés, vízvisszatartás I. 21. Tahy Ági.
+
+Mintha valami lett volna.
+
+Hétvégén feltöltötték a KTK fűtési renszerét. E héten nem lesznek a 4-es teremben.
+
+* NRRC
+Dominik írt. Meg kellene beszélni. Géza látóterében FugroViewer éves licencelés,
+telepítés problémás.
+
+Op. rendszer csere. Win 11-re. TopoXmap hallgatók meg tudják-e csinálni. Kell
+rendszergazdai jog.
+
+QGIS új stabil verzió. Kornélnak ArcGIS kellene a GT laborban.
+
+Kábelek és monitorok. Lement a közbeszerzés Novotny Arienn aláírták és
+2–3 hónapon belül megjöhetnek.
+
+Végleges konfigurációnál szét kellene szedni.
+
+Kábelezés a földön! Kivitelező cég F-et csinálja. Van vezetéknélküli megoldás.
+Megy a videó? Egy HDMI adó-vevő pár 60 ezer Ft.
+
+Ducktape kellene. Kábel csatorna van!
+
+Csak sima frissítés...
+
+Carlson megy?
+
+* GT
+Frissítésbe bele haló gép. Vászon és az ArcGIS.
+
+* Interaktív tábla 4-es
+USB kábel elnyírva. Nem szokta senki visszakötni a gépébe? Nem.
+
+* Képegyeztetés
+Van-e realitása? Ma délután. Elméleti megalapozás? Hány szoftvert akarnak megnézni?
+
+Bármilyen kis mintaállomány hosszabb időt igényel. Hosszú lépést kihagyjuk.
+
+Két alkalom 1.5 és 1.5 óra. Primusz Péternek jövő hét jobb lenne.
+
+Jövő hét kedd délután és szerda délelőtt.
+
+Helyszín a gépek miatt. DJI terra nem vihető. Agisoft licence. Ott a laborban. Kicsit
+szűkös.
+
+* Pedagógiai képzés
+Hétfő-kedd 8-tól 3-ig.
+
+* Órarend
+Nincs benne az utas tárgy. Géza szerint Ricsit kellene hívni.
+
+* Szkenner
+Firmware frissítés. Hivatalos leírásban nem volt benne, másikban benne
+a gépen keresztüli. Go alkalmazás leírásában. Gyorsan frissítette. Nem ír
+ki hibát.
+
+* Egyebek
