@@ -1,0 +1,128 @@
+#+TITLE: <2026-02-10 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- SzBo
+- KiBa
+- PrPé nem volt jól, de bejött
+- ZKKA
+- BrGá
+- BaTa
+- GrZo
+- KaPé
+** Online
+- HeAn
+** Nincs
+- CzKo egyetemi tanárit átveszi
+- SzÁr szabin
+
+* GGKI
+A részvételek.
+
+* Tudományos konferencia
+Plenáris.
+
+** Gábor
+Sok előadás volt. Nem voltak viták.
+
+Karesz envimap. Oktatási licence. Géza Tátika rezervátumra voltak
+adatok.  Lombos, lombtalan repülés volt. Keretmegállapodás volt,
+igény. Hivatalos út körülményesen megy. Burai Péterrel is
+beszélt. Hogyan tudjuk bizonyítani, hogy nekük van ilyen adat?
+Valamikor jó lenne az erdőszolgáltatást, /TreeDetect/ algoritmust
+hazsnálja Envirosense, mégvalaki, Woodweiseres fejlesztés.
+Inverzvízgyűjtős továbbfejlesztve.
+
+Woodweiser Envirosense, TopoLynx, Mátyásfa (Mátyás Csaba magánerdős) ők
+hárman nyertek. Szolgáltatást EnviMap erdő szolgáltatását fejlesztették.
+
+TreeDetect.com egy kínai szolgáltatás magyaroszágon. Egy ideig
+ingyenes! Kínait szolgáltatnak újra.
+
+DOTexpert Kornél ideadja. Saját fejlesztése. De szeretné még jobbra
+írni.
+
+Kettő hasonlít egymásra, Szakmailag is érdekes lenne tesztelni.
+
+Szívesen segít, ha Gábor felvállalja az igazgatását.
+
+** Vizes
+Szokolofszky Géza, és a Tisza árteres volt a csúcs.
+
+** Adatcsere
+Jogászok nagyon körbebástyázták, személyes kapcsolatok. Hosszú távon
+mi a jó.
+
+** KIM
+Valamit ki kellett tölteni.
+
+Egyéni és intézeti is. A kutatási információról.
+  
+* Félév előkészítése
+** NRRC
+Áramszünet volt és nem volt elérhető semmi. Első gyakorlaton Géza nem használt gépet.
+Délutáni gyakorlatra hívta Hajtó Csabát. Tegnap délután helyreállt. Sem Gevinas2, sem
+régi sem volt elérhető.
+
+Vizgazdc külön jelszót kér? Fizikailag hol van? NRRC-ben. GEVINAS2 C laborba.
+
+Szünetmetes pittyegett.
+
+** Kurzuskiírás
+Egyedi kurzuskiírás. Végzők most vennék fel. Csaba Dani.
+Noémi egyedi esetek, Eszter írja ki a kurzusokat.
+
+Kurzus bővítés az oktató engedélyével.
+
+*** Útnagygyakorlat
+Időpontja nincs! Tímea írta ki!
+Vizsgaidőszak első hetében.
+Negyede-harmada a létszám. Rugalmasabbak lehetnek.
+
+*** Komplex gyakorlat
+Máj 11–15 EMO  gyakorlat.
+
+* Toyota
+Indításnál izzításnál. Hosszabb ideig. Hátsó ajtó műanyag darab
+kiesett. Elő sárhányóból kiesett egy vas.
+
+Hátsó ajtót meg kellene csináltatni. Nagyobb műanyag letörve. Meg
+kellene csinálni.
+
+* Kari autó parkolni
+Le kell adni a kucsot, ha nem vagyunk rendesek.
+
+* Honlap
+Táblázat töltögetve.
+
+Egységes arculat keretében lekapcsolják a régit.
+
+Egységes legyen minden intézetben. Az öt fő menü lesz a fő dolog.
+
+Hány alá legyen? Mi csak tartalmat tudunk szerkeszteni. Tartalmakból
+is meg lehet mindent csinálni.
+
+Géza a Typo struktúráig visszanyúlva.
+
+Továbbiak róla azt tudjuk szerkeszteni.
+
+* Kari tanács
+Vadász kutatócsoport. Bizonyos emberek előrelépéséhez. Történeti és alkalmazott
+zoológia. Botond benne van.
+
+* IRM
+Bizottságba kell javasolni valakit.
+Géza ötlete, hogy megfigyelőt küldhetnénk. Tomi
+döntse el, hogy ki menne?
+
+* Erdészeti Tudásközpont
+Márciusban szerda-csütörtök jönnek a vizes erdészek
+jönnek 20-an. ?11-én
+Szerdán Zolinak jó, Csütörtökön nekem lenne a képzés.
+
+* Egyebek
+** Török Enikő
+Kataszter
+MNOL
