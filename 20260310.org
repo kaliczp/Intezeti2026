@@ -1,0 +1,161 @@
+#+TITLE: <2026-03-10 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- CzKo
+- KiBa
+- PrPé
+- SzÁr
+- BrGá
+- BaTa
+- ZKKA
+- GrZo
+- KaPé
+** Online
+- HeAn Bp-en
+** Nincs
+- SzBo Sepsiszentgyörgyről utazik vissza
+
+* Kari tanács
+Kedd délután. Nagyon gyors és hatékony volt.
+
+Szedett-vetett anyag. Média megjelenés,
+
+Rob Kozak h.c.
+
+Tanulmányi rend 0. verzió elfogadva.
+
+Egy héttel minden tolódik. Új táblázat, jobban áttekinthető.
+Kutatási és alkotói hét. Szakmai hét/Projekthét helyett.
+
+Tiszteletdiplomák. Nyilatkozni, hogy át akarják-e venni. Ormos Balázs,
+Misi. Sokan a nyári melegben nem vállalták. Szeptember 15-én.
+
+Ezzel kapcsolatos kérés, Csóka Gyuri kiadványt szeretné. 1980-as évek képek.
+
+Mintatanterv aktualizálás lehetséges, de a jelenlegi kereteken belül.
+
+Tutor és mentor program új szabályzat.
+
+KEKVA szerződés. 2027 agrár területen 510 fő, jelenleg 480.
+
+Műszaki 60 fő emelés, karok között hogyan?
+
+* Jekatyerinburg
+Beszámoltam.
+
+* Dékánitól
+- ICONST konferencia.
+- Afrika projekt.
+- MTA erdőalapú szektor klímaváltozás március 18.
+  Sok kolléga. Bak Miklóssal megy Zoli. TKP Erdőlab beszámoló. 
+- Angol kapcsolat: SocialCar-ban volt, mondta Kornél. Lakatos projekt.
+
+* VERGA
+Meg fogja rendelni a munkát. Egyszer csak szólnak, hogy holnap kellene.
+Következő időben szép időt mondanak. Tavalyihoz hasonlóan 5 csapat segít.
+
+Aggregátort megnézni. Két power station + Sanyának = 3 db.
+
+Bázis állomás segíthet. Külső antennában gondolkoznak. Antenna tartó,
+kényelmesebb, biztosabb vétel.
+
+Balázs 90%-os töltés kell. Most már van töltő, 4T-khez csak egy van.
+
+A 30T-hez jött egy második. Kompatibilis akkukat tudnak adni.
+
+Ezen a hét második felében kellene! Jövő héten jó lenne. Jönnek a
+vízügyes erdészek jövő héten, levelezős hét.
+
+Zavarás miatt volt korlátozás.
+
+Január 1-től átvették, úgy etettek, hogy kiszoktassák a nyílt területre.
+
+Pilóták?
+Botond, Gábor, Balázs... van tartalék ember.
+
+* TAEG vízelvezetés
+Van most hallgató. Kimennének lerepülni. Most pénteken.
+
+Nem világos, hogy melyikőnk és mennyiért? Jó domborzatmodell. Másodszorra
+megnézve éles, előzetes költségkalkuláció. Nagy megbízás része, hogy a
+Marteloscope projekt. TAEG nem akarja kifizetni. 5000 EUR a tagdíj.
+
+Vízmegtartás, tóka kialakítás. Idén meg akarják csinálni. Első helyen
+szárazabb volt, a második helyen magasabban ált a víz. Út
+kereszteződés. Nyiladék lekövezve.
+
+Vizes téma, átereszt tesznek be. Határozott út. Útra kérdezett rá.
+
+Sűrű az erdő, de most lombtalan.
+
+* Felsőrendű szintező
+Bige Zoli ajánlotta Paulik Sándor, felsőrendű szintezőjét ajánlja.
+
+* Egyéb
+** Kiss Ferenc
+Szegeden beindult a földmérő képzés. József hozzátette, hogy nem nagyon
+fog emelkedni.
+** Tárhely rendezés
+Komolyabb szerve vagy NAS.
+
+Használjuk az S meghajtót.
+
+Hosszút távú megoldás?
+
+** Toyota
+Hátsó ajtó. Június 22-ig van a műszakija. Merre kell elindulni.
+Tomi megnézi?
+
+** Szintezők
+Szeretnének digitális szintezőket az oktatásra. A szkennerrel együtt beírva.
+Beszerzési tervbe került be AM támogatásból mi lett véve?
+
+2026-os beszerzésbe 2 db digitális szintező és egy db robot
+mérőállomás.  Milyen forrásra. Nincs pénzügyi központ. Nincs
+kötelezettség jellege. Fönt is szembesülnek.
+
+2M400e Ft.
+
+Sprinter nem megy akku bölcsője el van törve. Tomi szerint több mérés
+falsch adatokat mért. Gábornak utána jól működött.
+
+Négy optikai leica.
+
+Utas Sokkia/Zeiss.
+
+Fel lehet vetni? SoilSenseben van egy kevés. Dina szerint kimaxolták.
+
+Géza idős kollégát kérdezi.
+
+Forgeoós két szintező. Alsőrendű digitális. Inkább kettő, mint egy felsőrendű.
+
+Jó lenne két egyforma digitális.
+
+Leica, akkor a GGKI-nak van léce!
+
+** HUN-REN FI
+3 mellett + 4 + 3 kolléga. 10 ember. Doktori iskola, doktori tárgyak.
+
+Barta Veronika, Porkoláb Kristóf, Kati, Bozsó István.
+
+A másik három Bór Jóska, másik kettő nem is soproni.
+
+Publikációs teljesítmény felfuttatása, affiliációba beírják, hogy
+Soproni Egyetem, bizonyos szint kell a láthatósághoz. Kis Árpád Nature
+cikke, soproni egyetemet beírták.
+
+Doktori iskola is, oktatás, közös publikáció.
+
+Adottság, kereteinken belül minél jobban ki kellene
+használni. Határozott egy éves szerződések.
+
+Geodéziai irányultság is jó lenne. Ki szól bele?
+
+Földtudományi MSct indítanának.
+
+** Fertőd
+vinnénk műszert.
+Láb, szintező, két léc, saru GNSS.
