@@ -1,0 +1,129 @@
+#+TITLE: <2026-03-31 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- SzBo
+- PrPé széktisztításnál jött
+- CzKo
+- KiBa
+- SzÁr
+- BaTa OTP előtt jött.
+- BrGá
+- ZKKA
+- GrZo
+- KaPé
+** Online
+** Nincs
+- HeAn szék után jött
+
+* Intézetik
+Múlt héten nem volt.
+Jövő hétens sem lesz.
+
+* VERGA felmérés
+Több kép, mint tavaly flottul ment.
+
+* Nyírerdős munka
+Dufla szerkeszthető szerződést kér.
+
+* TAEG
+A héten beleférne-e, domborzat modell megvan, közösen ránézni.
+
+Ma délután.
+
+* Felmérés
+Nem sikerül.
+RTK fusion kapcsoló a feldolgozásnál.
+
+Hat állományt kornél feltett. 2 cm pontos. 10 sec megállás, minimum 3 pont,
+volt RTK float is, de minimum 3 RTK fix.
+
+Kontroll pont kell.
+
+Gyenge a program, hogy a trafóról nem ad összeget.
+
+Géza: Report a következő változatba várható.
+
+Lokális koordináta rendszerben kiegyenlíteni és utólag betályoékozni.
+
+* OTP erdős projekt
+Kornél: hogyan áll? Rétfalvi Tamás fogja össze, szénkészlet becslés.
+10 tag 400x400 m hálózat pont + légi lézer szkenner, szénkészletet.
+
+Idei feladat kiértékelés. Idén nincs más feladat.
+
+* Széktisztítás
+18 itt, geón is néhány, nálunk 30.
+
+* Jövő hét
+Melyik csoportnak van gyakorlata?
+
+Jövőre kutatási és alkotói hét.
+
+* Orvosi vizsgálat
+Több embernél aktuális.
+Gábor, Zoli, Kornél, Herce András, Kalicz Péter, Géza, Kati.
+
+Keddenként bejelentkezni, Németh Erzsébettel lehet egyeztetni.
+Egyesével egyeztetni. DOKTORNŐT hívni egy kedden!
+
+* Védés
+Abdalrahman, és Ferrat. Jövő hétre sem jött össze, most a következő
+három hétre.
+
+Emad védése szerdán 2-től a dékániba ment át. Bence a titkár.
+
+* Egyéb
+
+** Hidegvíz
+Mondtam a kidőlt fákat és áram nincs.
+
+** Várhely
+Április-ra adják át? Kilátó.
+
+** Kilátó
+Kettős, Kanada és TAEG. A hubertusz kilátó újáépítés, ikerlesz Kanadában.
+70 éves évforduló.
+
+** Projektek
+Van egy projektes?
+Lantos Avar Tamás, Ágoston Álmos Pál futnak.
+Tőczik Vendel anyaállományok és mintafák felvétele. Bükk mitaterület.
+
+** Erdőrezervátum
+Őserdő lenne az idei erdőrezervátum. Hálópontok.
+Géza megy a Suzukival pénteken. Kórises mintaterületeket és az Őserdőt megnézik.
+
+** MÁV projekt
+Komárom melletti és Balatonakali mérés, drón és
+lézerszkennelés. MÁVval egyeztetni előtte.
+
+** BorderEye
+Nagy drónok készek, egy mikasen sensorra várnak. Multispektrális szenzor.
+
+** Nagyszkenner
+Nagy Géza hívta Gézát, lehet megvan.
+
+Több tízmillió van. L3 olcsóbb, mint az L2. Sokkal jobb! Kérjen Géza ajánlatot.
+Legyen L2, összenhasonlítható. 400 miatt olcsóbb a L3.
+
+L2-nél a Vux jó.
+
+** Tarokk óra
+Második tarokk óra. Régen Jáger tartott tarokk órát.
+
+** Toyota
+Szétszedtük, eltörve egy kallantyú. Átnézeti a Keresével
+minden műszakival megy. Egy fém van eltörve.
+
+** Hallgató
+Klaudia területén mintaterületet választ. Idei agrárminisztériumba. Síkvidék.
+Közel legyen a település, kutat kell fúrni. Homok.
+
+** Agrárminisztérium
+Mennyi pénz van?
+
+** Ohat
+Pénteken mennek hidegvíz-völgybe Kati és Andris, utána lehet elmenni a Toyotával.
