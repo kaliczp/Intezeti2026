@@ -1,0 +1,181 @@
+#+TITLE: <2026-04-14 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- HeAn
+- CzKo
+- SzÁr
+- BaTa
+- BrGá
+- ZKKA
+- GrZo
+- KaPé
+** Online
+
+** Nincs
+- PrPé Paksi munkán
+- KiBa
+- SzBo
+
+* Kari Tanács
+Múlt hét kedden. Elfogadták a tanrendet.
+
+Nem volt senki.
+
+Miért kellett? Minden hó első keddjére lőtték be.
+
+Az utas gyakorlatot beírták az elfogadottba.
+Négy igen három tartozkodással fogadták el.
+
+Más lényeges nem volt.
+
+* Tegnap EMK és ERTI egyeztetés
+Kuratórium részéről jött jelzés, hogy szorosabb együttműködés.
+
+Korábban volt együtt ülés. Van, de nem transzparens a kuratórium felé.
+Van több dudás – konfliktusok. Ennek megbeszélése.
+
+Dékán úr olyan bizottságot hozzon létre rektori felkérés alapján, ami
+együttműködést koordinálja. Tantervi reform, felülvizsgálat, időről-időre.
+
+Háromévente reform!?
+
+Bizottság:
+- Sulyok Feri a kuratórium tagja.
+- Partos Kálmán
+- NEFAG
+- Ferenczi András zalaegerszegi
+- EMK részéről művelés, rendezés, használat kritikus, ezér
+  - Frank
+  - Mátyás
+  - Horváth Tamás
+  - Czimber Kornél
+  - Zagyvai Gergő (inváziós, természetvédelemmel konfliktus)
+- ERTI három ember
+  - Illés Gábor
+  - Csóka György
+  - Borovics Attila
+
+Választás eredmény fényében mi hogyan? Egyetemek függetlenségét vissza akarják állítani,
+Kuratórium lecserélése, megszüntetése, vagy részben.
+
+Gyorsan fog valami történni, EU-s pénzek hazahozatala kapcsán lehet, hogy gyors!
+
+Borovics Attila felvetette:
+- klíma
+- talaj, szén
+- erdő, víz; Bolla Bence és Gribovszki
+
+Leltárt lehetne készíteni. Jó lenne kimutatni.
+
+Kornél: Borovics Attilának van olyan gondolata, hogy privilégiumokat
+akar. Sok projektet ő hozzájuk csatolni és miénket leállítani.
+
+80%-os a működési költségükben az AM támogatás. Miért vannak olyan támogatások, amik
+szokásjog alapján privilegizálnak? Tényleges konfliktusok.
+
+Vagy ők ez első, de amiben nem, arra kaptak már 200 millót az AM-től.
+
+Egyébként sokat panaszkodnak az ERTI-re, hogy doktoranduszaik jobban
+megbecsültek.  Nem tudjuk ide hozni a doktoranduszokat. ERTI-s jól elvan.
+
+Rendezés több szempontból érint, hogy Szabó Joe és Fenyősi Antal is elment.
+Lakatos meghagyta a kulcsát. Főként családi okok miatt ment el.
+
+Gál Janó. Van vagy nincs?
+
+További egyeztetéseket kíván az ügy.
+
+Védelem tekintetében Lakatos-Csóka jó az együttműködés. Vannak közös dolgaik.
+Tuba Kati mondta, hogy növénykórtanos nincs.
+
+Művelést új alapokra helyezni, agrárerdészet, városi erdészet.
+Vityi Andiék nem tájékoztatnak, ERTInél is van agrárerdészeti pályázat.
+
+Van független ERTI-s projekt. Korábban agrárerdészeti projekt.
+
+Ugyan azokért a forrásokért versenyzünk.
+
+Közös publikációk majdnem 200! Attila kigyűjtötte.
+
+* Változások
+ERTI marad, megy?
+
+Választás előtt összes erdőgazdaság alapítványinak tervezték. TAEG a példa.
+
+Hat nyugdíj korú vezér.
+
+Zambó is nyugdíjkorú.
+
+Agrárminiszter egyéniben bekerült.
+
+* Informatikai fejlesztés
+RRF cuccok, igényeket teljesítik.
+
+Laborba monitorok.
+
+Nem szeretnék széthordani. Egy helyen, fotózás, leltározást
+megcsinálják, utána szétosztják.
+
+Laborok, lenti laborok igénylése, használata. Hogy, s mint lehetnének.
+
+* Felvételi tájékoztatók
+35 elsőhelyes. 30-nál határt kellene húzni. Emelkedett. Nem első helyen száz fölé.
+
+Jelentkezési táblázat, egyszer változtatják a diákok is. Július elején lesz érdekes.
+
+Nature conservation 2 fő, environmetnat engin.
+
+emo első helyen 97. Költségtérítéses!
+
+Vadgáz BSc 24 nappali. Levelező 31.
+
+Nem hírették meg a MSc-t.
+
+* Földmérő kurzus renszer
+Olyan dolog is előkerült, hogy hosszú távon átgondolni, mennyire
+bontjuk a kurzusokat, hogy-smint?
+
+Eszközigény? Több tárgyból több kurzusok. Oktató a szűk keresztmetszet.
+Több oktató és több terem.
+
+Tutor renszer egy kurzus oktató, másik tutor vagy phd.
+
+Kornélnál nincs elég gép, saját gépet hoznak.
+
+Kovács Gábort felkérték, hogy áttekinteni a tömbösítést. Tömbösítési
+lehetőségeket, az oktatási reformban egy-két pont, amit át kell
+gondolni.  Ne legyen úgy, hogy az előadás (2+2), legyen
+egybe. Rugalmasabban kezelhető. 4 órával dolgozni, messzebb
+menni. Hosszabbtávú, hogy két hetes ciklusban dolgozni, két hetente 8
+óra. Vannak jó gyakorlatok, hogy kis előkészítés önállóan
+forgószínpad.
+
+Múlt hét csütörtökön beszélt Géza Gáborral, aki küldi az írott
+anyagot.  Milyen digitális oktatási lehetőségek bevonása, őszi
+félévben biztosan nem lenne, neki október közepéig javaslatot kell
+tenni.
+
+Gézánál 31 fő, ketten egy gépnél. Ő szeretné a menedzselő szoftvert.
+
+Kornél zip használata, mellette ülők segítenek. Nem vagyunk elegen a
+két kurzushoz.
+
+Mi az irány? Vegyük fel a gyakorlatot videóra. Jobbaknak online
+lehetőség.
+
+KEKVA szerződésben felső létszám. Nem cél a további
+növelés. Szakfelelős mondhatja.
+
+Sok erdőmérnök C-s ként veszi fel.
+
+** Eszközök
+Geodéziában kezdenek betorlódni. Mérőállomások öregecskék. Szintezők
+inkább két olcsóbb.
+
+* Tantervi változtatások
+Brolly Gábor kérdezte, hogy lehet-e?
+
+Itt eljöttem órára.
