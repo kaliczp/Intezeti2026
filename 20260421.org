@@ -1,0 +1,172 @@
+#+TITLE: <2026-04-21 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- PrPé
+- KiBa
+- HeAn a vizsgalap után ért ide
+- SzÁr
+- BrGá
+- ZKKA
+- KaPé
+** Online
+
+** Nincs
+- BaTa szakdolgozatot ír
+- GrZo kiküldetésben
+
+* Vizsgalapok
+Nem tudják, hogy hogyan kellene csinálni?
+
+NFT-ben lerögzítve, hogy a dékáni hivatalban kell tárolni.
+A hallgatónak is aláírása van. Vizsganaplót is vezetni kell,
+hogy melyin tárgyban.
+
+Digitális aláírás.
+
+* Laptop, monitorok
+Bazsó Tomi kapott.
+
+RRF monitorokra Balázs rákérez.
+
+* Paks
+Be vihetsz, de ki csak a listán.
+Izotóp kapu.
+
+Két kísérő.
+
+Segítettek a helyiek. Fél óra kijutás. Mérés jól sikerült.
+
+Adatfeldolgozás, és szomszéd faluban karbantartják a mérőket.
+60-as évektől nem nézte meg.
+
+Bonyolult a dolog.
+
+* Nyírerdős munka
+Balázs rákérdez.
+
+* MÁVos munka
+Kedden majdnem bukott, hadnagy ragaszkodott a munkavédelmi oktatásról.
+Megszervezték, szerdán délelőtt leoktatták. Üzemi terület, engedélyezett
+drónok és pilóták repülhetnek. Saját emberük repült.
+
+Kilenc előtt odaértek. Lepsénynél áll a vonat. Három perc oktatás.
+
+Öt perc földi lézer és drónos. 300-as drón L1-es döntve.
+
+Csütörtököki mérés, át kellett szerelni a gimbalt. Új szenzor, tablet
+nem mutatott GPS pozíciót. Kipróbálták, de nem. Később
+indulás. Főpályamester, Jön vissza. Két gyerek mellettük.
+Bötkös Marcell (saját pilóta) ott volt. Mit mérjünk? Ti tudjátok.
+
+Két szakasz lerepülve, új eszközzel is. Pontfelhő megvan. Nem tudta
+színezni.  Távirányító hangot ad. Feldolgozó szoftverben segítsget
+ad. Stonexet Kornél ismeri. Nem régen volt tűz.
+
+L1, Stonex, P1-el is. P1-el oldalról is képek.
+
+Kornél a héten írja a szerződés doksit, lesznek
+eredménytermékek. Műholdas és multispektrális drónos eü felmérés.
+
+Negyedik fázis a kritikus, fakopp. Vasutas lézeres állomány, fákra nem
+lesz jó. 5000 km.
+
+GYSEV Pájer győr-sopron között környezetvédelmi értékelés volt.
+
+Kocsira tett eszközt, amit kocsira tesznek. Suzuki Riegel szkenner.
+
+Helikopterre emlékezett Gábor.
+
+Holnap nagy drónok unoxing 11-től. Sajtónyilvános, cég hozza és ők
+adják át.
+
+Tanfolyammal kapcsolatban lesz lehetőség megbeszélni. Akinek van drón
+vezetői engedélye, használhatja, nem korlátozott. Ha látod használhatod.
+
+BV lossban tervezik.
+
+PROTAR bemutató. 500 km/h. Gyorsan. Kilövő állás, hidegben, melegben. 500-al elzúg a gép.
+
+L2/L3 drónbeszerzés. L2 pluszba, L3 drónnal. Hőkamerea, 640*512 helyett 1280x1024.
+
+4T-vel is bemutató, iszaonyatos, hogy mit jelent. 20-30!
+
+** OEE drón
+Most pénteken OEE rendezvény. Botond tervez jelentkezést. Géza Papp Lacis tanfolyam.
+
+TAEG röjtökmuzsalyi rendezvénye. Magvetés lesz. Milyen cég? Nem tudják.
+
+Szegedi földrajz szakon végzett fickó és apja cége. Kínai
+bérszolgáltatás, tovább szolgáltatása.
+
+Géza kapott ingyen feltöltehtő bónnal próbált dolgozni. Nem sikerült feltölteni.
+Hibaüzenet.
+
+Kornéli is úgy tudja, hogy meglévő megoldást szolgáltatnak Magyarországon.
+
+* Csúcstechnológiák csodás tanfolyam
+Papp Laci, előadás.
+
+* Oktatók elégedettsége
+Anonim, elvileg.
+
+* BM
+Április 20-27 fenntarthatósági témahét. SoE intézményi szinten is csatlakozni kíván.
+Régiós középiskolások csatlakozzanak.
+
+Témák között erdő, hulladékgazdálkodás.
+
+* Alföldi erdők
+Alföldi erdők Kisújszállás 22B Csütörtökön.
+
+AEE terepi program csütörtökön.
+
+* Selmeci tanulmányút
+Akadémisták Selmecen. Senki.
+
+* Britt-Magyar együttműködés
+Adatvezérelt erdő, szénmegközés, tűz.
+
+HorizonEurope. Kornél nem folyt bele.
+
+* Erdőtűz
+
+Kornél a rádiókban (Retró). Erdészeti Tudományos konferencián
+bemutatott anyag, akkor készült el. Gondolom az erdőtűz.
+
+Kanada Török. Legújabbak is woxel alapú, figyeli a domborzatot,
+szelet, létrát kezel, felmegy a koronába. Hogyan ég le? Interaktív
+eszközök, tűzpászta, hab és vízzel oltás. Parancssori jelenleg.
+Interaktív felülettel tanulni.
+
+ERTI és Nagy Dani milliókat kap, de csak statisztikáznak, előbbre
+lehet lépni.
+
+Balázs, úthálózatot is ehhez tartják karban. Több helyen meggyújtod,
+Kornél szoftvere tudja. Oltás kivonulás. Össze dolgozik szívesen.
+
+* Gördülő HR tervet aktualizálni
+Két első GGKI kolléga és Botond szerződése lejár. Gézának nem kell foglalkozni.
+SoilSense még nem biztos, hogy folytat. Januárban BorderEye-ra hosszabbítás is
+bent van. Nincs benne visszajelzés. Botondot szeretné Kornél.
+
+* Élő környezetért felelős minisztérium
+
+AM Vargovics Máté volt itt mondtam.
+
+* Pécsi földmérőnap
+Jelentkeztek-e? Nem. Mondott-e valamit. Várhelyi kilátó átadó.
+
+Gábor szerint nem jó a kilátás a városra.
+
+* Egyéb
+
+** Kataszter
+Átadtam Purger Zoltán üdvözletét.
+
+* Nadjat védés
+Andival beszéltünk.
