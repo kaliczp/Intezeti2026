@@ -1,0 +1,162 @@
+#+TITLE: <2026-04-28 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- KiBa
+- SzBo
+- CzKo
+- HeAn
+- PrPé
+- SzÁr
+- BrGá
+- BaTa
+- ZKKA
+- GrZo
+- KaPé
+
+** Online
+
+** Nincs
+
+* Köszöntő
+Zoli: Jún 15 hétfő SoE FI kutatási együttműködés.
+
+* Stonex
+10-től jön a Nagy Géza, minden kiépítésben bemutatják. Összes feldolgozás nem fog menni,
+de megnéznék.
+
+Melyik gépen fusson a szoftver, hardverkulcs van.
+
+Van-e erősebb laptop? Kornél laptopján fent van a Stonexes GoPost.
+
+Ebédszünetben ZH-t írat Gábor. Mikortól lenne ebédszünet. Délben óra.
+
+11-re érnek ide. 12:30-kor ebédszünet.
+
+* HUN-REN
+Lakatos Ferivel megbeszélés HUN-REN-es kollégákkal. Munkaköri leírás, feladatok meghatározása.
+
+Első körben letelik az egy egy év. Egy ember rangos publikáció SOE Kis Árpád.
+
+A résztvevő kutatók majd mindegyikénél geofizika tudományterület. Geofizikán belül
+széles, amivel foglalkoznak. Hogy-mint lesz a folytatása?
+
+* BorderEye
+Múlt hét szerdán, megjöttek a merevszárnyú eszközök.
+
+Tanfolyam hogyan?
+
+Papír gondok. Aki adja belgium, hollandia, lengyelország. Az a mi ügyünk.
+A1/A3 + 100 óra tanfolyam.
+
+100 óra szerződésben, vizsga nem! Velencei tó fölötti tanfolyam. Majd meglátjuk,
+hogy az ő légterük meddig lesz meg? Új politikai irányvonalakra. Hat ember van,
+akkor a kezdő résznél hatékony, hogy a 6 ember utazik. Elméletet itt kellene,
+gyakorlatra oda mennének.
+
+Regisztráció és biztosítás. Ők azon mit hegyeznek? Hiánypótlást
+indítanak és az Egyetem úgy fizet. Meglévő biztosításoknál a két
+eszköz lejelentve. Meglévőt bőviíteni, hogy egszerre hány drón
+repülhet. Egyszerűbb, mint másik biztosítónál kötni. Kornél Andreával megbeszélés.
+
+Jövő hét karitanács után hátralévő feladatok. Május 5-ig.
+
+* Kari tanács
+Napirendi pontok:
+- Kitüntetések
+- Oktatási ügyek
+- Záró vizsga, zöld pedagógiai szakember továbbképzési szak.
+
+Záróvizsga bizottság? Robi nem lehet. Bunyeváczot beszélték.
+Június 23 kedd 10 óra. Az a hét belefér 10-kor tételhúzás. Hárman jöttek össze.
+Újpesti, Bazsó, Orosz.
+
+Geobioinformatika is 23-ára, nincs időpont, délutánra rakják. Két fő.
+Egy éves és tavaly ősszel indult.
+
+EMO 22–23-a három bizottsággal bakonyerdő.
+
+Környész 22-e.
+
+Védés előtte héten.
+
+* Dipomavédés
+Syafira kitölteni.
+
+5 erdőmérnök 2 földmérő, 1 kmmsc, 1 nature conservation 9 fő.
+
+Szerdai nap kellene.
+16-án lesz az értekezlet után.
+
+Ki lehet akit be lehet hívni. Ferenczi Noémi. Rab András, Mentes Matyi
+IRM. Ő képben van.
+
+** Bizottság
+Első Bunyevácz Robi. Ma-holnap lezongorázni. Gyors online szavazás, ha vátlozik.
+
+* Kari tanács tovább
+
+** Felvételi bizottságok
+Erdőmérnök osztatlan, stb. Kornél két évig volt. Érdekes élettörténetek.
+
+** Zöld szakember
+Vágvölgyi Andi szakfelelős
+
+* Botond munkahelyi
+Megvolt sikeres.
+
+Eléggé elhúzódott.
+
+* Abalrahman, Ferrat
+Csütörtöki védés. Sok kérdés. Külön vagy egyben? Bazsó és Illés Gábor egyikben-egyikben.
+8–10, 10–12-ig.
+
+Óra van és miegymás.
+Gyors legyen, előkészíteni a szöveget a végére.
+
+* Egyebek
+
+* AEE terepi nap
+23-án nem volt senki. NEFAG Fehér Sanyi.
+
+* TAEG rendezvény
+Pénteken OEE gépész bizottság, TAEG szervezése, Botond, Ács Norbi.
+
+Délelőtt új fejlesztés, traktor harveszter. Nem hatákony, de jól néz
+ki.  Gyérítás V-VI fatermés. 40 cm, de inkább 25 cm. Gépkezelő sem lát
+ki a traktorból.
+
+Lengyelek csináltak picit. Fenyőre.
+
+R scannes Tree detect, tipikus marketing bemutató. Mavic 2, átmérő mérés.
+
+Eco Wave Solution keretében 5 perc megbeszélés.
+
+Mavic 2 pontfelhőről átmérőt tudnak mérni. 6%-os eltérés.
+
+Adatot szolgáltatnak, de nem pontos.
+
+last kell csinálni DJI nyersből LAS legyen, töltsd fel az adatot és mi
+küldünk valamit.
+
+Magvetés, T30 granulátum szórás, T50 permetező. Sok ismerős kolléga volt.
+
+Felmerült az Egyetemmel együtműködnek. Habozás után igen!
+
+* HURIZON
+Május 29-ig felhívás. Politikailag bizonytalan, hogy mi lesz vele.
+
+* Balázs monitorok
+Még nem kérdezett rá.
+
+* Nyírerdő
+Változás, meg kell versenyeztetni az adott árajánlatot.
+
+* Korrepetálás
+Bedics István 6-től tartaná, hét körül ki zárná a termet. Géza lesz hétig.
+4-es kucsot a portáról felvennék.
+
+* Mérnökgeo
+AutoCAD keresztszelvény, hossz-szelvény felkérés.
