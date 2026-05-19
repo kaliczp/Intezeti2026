@@ -1,0 +1,186 @@
+#+TITLE: <2026-05-19 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- HeAn
+- KiBa
+- PrPé
+- SzÁr
+- BrGá
+- BaTa
+- ZKKA
+- KaPé
+
+** Online
+- SzBo
+
+** Nincs
+- GrZo szabi
+- CzKo Svájcban
+
+* Felvezetés
+Sok minden mára
+
+* Félévzárás
+Változó határidők. Meddig kell beírni a jegyeket, aláírásokat?
+Viszgaidőszak végét előrébb hozták, pár nappal. SopronFest felülírja
+a szabályokat? Feketén tartsunk vizsgát?
+
+* Nagy-gyakorlatok
+** Erdész úttervezés
+KiBa kevesen vettek részt. Régi kódos útépítés. Három nap botankert felmérés, tervezés.
+Többi része beletoldva az órákba. Talajmecha és útfenntartás gyakorlatok voltak.
+
+Rendben volt, megcsinálták.
+
+** Erdész geó
+Sokan voltak. Botan kert út és egyesfa felmérés. Kis előképzettséggel,
+terep jól ment.  Feldolgozást Botond vezényelte. Lezárásnál az jött
+le, hogy nincsenek képben. Beszámolón nem volt olyan visszajelzés,
+hogy képben. Gábor szerint a vonatját akarta mindenki elérni.
+
+Félévközi jegyek alapján sem túl érdeklődők. Egy-kettő van.
+
+Külön jegy nincs.
+
+* Védések beosztása
+Géza kiküldte, elfogadottnak tekinti.
+
+KaPé egybe, de beszélt Áronnal. Védéssel kapcsolatban a kar
+felajánlott catering szolgáltatást. Méltó Jankó konferencia.
+
+Június 16-a kedd. Reggel 8 kezdés. Angol szakosok egyben.
+
+Többiek, bírálati felkérések? KaPé kimentek a felkérések.
+Varga Jenő kettőt bírál.
+
+* TÉR
+Megjött a TÉR felkérés tájékoztató! Változások és javítások. Legkésőbb
+május 27-ig kitölteni! Alkalmazás és microsoft forms űrlap.
+
+Előtte, utánna, közbe motivációs beszélgetés.
+
+Elfelejtett jelszóval kell kezdeni.
+
+Botond elkezdte és fel is idegelte magát. Neki csak a párbeszéd részét
+kell csinálni.  Szöveges önértékelés. Nem tud számokat beírni.
+
+* RRF gépek
+Sok gép érkezett, újabb igényt benyújtani. Laptopokról van szó. Van pár PC is.
+
+Legyen egy intézeti védésekre?
+
+Projektor van, Gézánál kettő is az irodában.
+
+Andris kért még külső vinyót. A videók sok helyet foglalnak.
+
+KiBa, ZKKA nevén sincs.
+
+Monitorok NRRC-ben megjöttek, a héten föl kellene vinni. Kocsival felvinni.
+
+* NRRC
+Munkavégzés nem engedélyezett május végéig. Mikor visszük fel?
+
+Ma kettőkor felvisszük.
+
+** Táblázat
+Háttere, egészségügyi kockázat. Hipochonder emberek. Tüdőre
+panaszkodók.  Szakértő nem vett mintát, kimutatták, nem mutatták
+ki. ÁNTSZ hivatalos mintavétel.  Nem lett karbantartva.
+
+Most már csináltak karbantgartás.
+
+Bálint látott negatív eredményt, de más mikrobiológus mondta, hogy
+bármit ki lehet hozni.
+
+Emadnak volt TBC.
+
+* Lechner együttműködés
+Volt szó róla, kinek milyen adatkör.
+
+Várhely pihen.
+
+Vámosi Lénárd szakdolgozatát szívesen írná.
+
+Analóg térképek.
+
+* Adattár
+Gézánál 2016 jan. 1-i.
+Megvan a legfrissebb is. Szabó Józsi volt a felelős, aki elment.
+Mindig zűrös.
+
+Régen Gál Janó foxpro adatbázs. Volt, hogy a térkép megvolt.
+2016-os két éves. Szabó Szabols ÁESZ térképészeti osztályvezető.
+
+Azóta se sikerült. Elég összetett bonyolult. TAEG-hez a TERIN keresztül
+hozzájutunk. Nem az éles adatbázist, hanem másolatot.
+
+Géza sokat foglalkozott vele, de tele a hócipője. Horváth Tamáséknál
+volt az 1998-as végzésű Szabó Józsi, de elment. Papírok külön kérdés.
+
+Az a baj, hogy egyetemi szinten is gond. Kornélék megvásárolták
+dudleszre és rédei területre. Miért nem vesszük meg az egész országra.
+
+Áronnál Folcz Ádám excelben. Áron minisztériumon keresztül igényelte.
+
+TERI terepi alkalmazáson. Bakonyerdősök a felhasználó menedzsment
+Váradi Jóska és Gombási Mónika országosan csinálják. Régen működött a
+TAEG másolat.
+
+Katinak nem az erdőtérkép, hanem minden más adat.
+
+Erdőtérképen a legtöbb adat fent van. Egy erdőrészletre megvan minden adat.
+
+Községhatár fel kall hívni Kiss Csabit. Le lehet egy programmal
+tölteni az egészet.
+
+TERI és ESZR is úgy van kitalálva, hogy nincs szerzesztő funkció.
+
+Géza azt látja, hogy az állami alapadatokat szolgáltatják jó pénzért.
+Korábban voltak az Egyetem égisze alatt visszaélések. Volt konkrét eset,
+amikor kikerültek.
+
+Volt probléma, az adattár struktúrája komplex, nem megfelelő tudással félre
+lehet értelmezni. Megjelent egy cikk, hivatkozva és hibás.
+
+Oktatási szempontból elég a TAEG, nem kell az országos.
+
+* Menetlevél
+Balázs volt a bűnös. A menetlevelet töltsük rendesebben.
+Autóval kapcsolatban még az is elő kerül. Sportcsarnoknál madárpiszkos lesz.
+Mindenki próbálja legalább olyan állapotba visszatenni. Ha valaki telenyomja.
+
+Most a suzukit kitakaríttatja Tímea.
+
+Van kártya a külső mosatásra. Van porszívó. Egy belső kárpittisztítással.
+Áronnak van Kópházán ismerőse. Hátul kis kézi porszívó. Fel kell tölteni.
+
+* Késedelmi díj
+Valamit egyszer írtak.
+
+Hová érkezik a pénz? A karhoz megy.
+
+5000 Ft és gyűjtőszámlára megy az egyetemhez. Neptunba is kiírhatnák.
+
+* Vizsgatáblázat
+Tímea kiküldte a táblázatot, ki-mikorra írt ki? A vizsgalapok rendben menjenek.
+Milyen vizsgalap. Táblázatot kitölteni és a vizsgalapot leadni.
+
+* Tanszéki buli
+Utolsó vizsganap június 26-án laza összejövetel. Péntek, nem feltétlen egézs nap.
+Tímea és Andrá tart előadást Japánról.
+
+Koradélutáni ebéd és ereszd el a hajamat.
+
+* Egyéb
+** Nagymama
+Hosszú ideig nem volt nagyszülő.
+Júlia a neve.
+
+** Sifa védés
+Komplex vizsgán a témavezető.
+
+** Géza
+54 éves. Éppen ma!
