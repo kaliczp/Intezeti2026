@@ -4,9 +4,10 @@
 ** Helyben
 - KiGé
 - HoTi
-- CzKo
+- CzKo drón közben jött Hunedu
 - HeAn
 - GrZo
+- PrPé második kamara után jött
 - BrGá
 - BaTa késik
 - ZKKA
@@ -14,7 +15,6 @@
 
 ** Online
 - SzBo
-- PrPé
 - KiBa
 
 ** Nincs
@@ -47,4 +47,72 @@ jövő tárgyak OK.
 
 EÁTK-s tárgyak harmadik misszióba beírható. E kapcsán volt nagy kavarodás.
 
+* Kamara
+Mérnöki kamara szakcsoport tovább képzés
+28-án Ligneumban 10-15-ig. Soproni földmérőképzésről valamire.
+Kornél lenne az illetékes.
 
+* OEE
+Lehetőség van az OEE vándorgyűlés részvételre.
+Ez július 23-24-én.
+
+Vízpótlást megnézni Nyíregyházán.
+
+* MTA ülés
+Május 15-én. Andris előadást tartott, Zoli a kerekasztal beszélgetésen vett részt.
+Általánosságok voltak. Meteo jellemzők, felszín alatti vizek. BME hordalékmoztás,
+kistavakról, Andris az erdőkről.
+
+AM projekthez kapcsolódik. Nagy érdeklődés volt, de semmi konkrétum.
+
+* Drónos konferencia
+Szentpéteri László (régen trimble forgalmazó) vízi drónhajók voltak.
+Jó volt a rendezvény, multi beam hajó.
+
+Volt robotkutya.
+
+Gábor Dénes drónos képzés. Kiegészítő MSc-s hallgatók mutattak be munkát.
+
+* Kamara újra
+Kornél hunedu projektről jött.
+10–15 május 28. Hivatalos program.
+
+Kornél szívesen tartja.
+
+* 8. szemeszteres
+Mini TDK-t rendeztek.
+
+Referáltam június 25-ig.
+
+* Miniszteri kitüntetések
+Május 29-ig sok díj. AM. oklevelek, stb.
+Van-e valaki aki a látótérbe került. Zoli Török Andrást tervezte.
+
+* Roth
+Jövő héten szerdán jönnek. Mikor tudjuk megbeszélni?
+
+* Vizsgatáblázat
+Vizsgaidőpontokat kitöltjük, van minta, hogy milyen vizsgalapot nyomtassunk.
+A táblázat megvan, milyen vizsgalapot nyomtatunk.
+
+* NRRC
+Monitorok cseréje megtörtént. Megszűntek a problémák.
+
+Szoftver frissítést jelezzük. Balázs megosztott dokumentumot küldött.
+QGIS, autocad, notepad++, labormenedzser program.
+
+ETK mindenféle felmérést végzett. Richárd szólt. GT116-ost elég
+jelentősen befoglalták. Állásfoglalás.
+
+Hosszabb távon a másfél labor elegendő-e? Legyen új labor?
+
+Felújításra szorul, mondták a monitor cserénél. Előkerül a kivetítő, vászon
+méret. Frissítés, újabb labor, meglévők fenntartása?
+
+Kornél 50–50% lenne az igazságos. Ha nem megy, akkor saját labor. GT116 ArcGIS
+nem megy, saját gépet telepített. Lenit média laborok. ERTIs licenc, elvileg
+működik. Négy éve nem tudták megoldani.
+
+* Szakdolgozat, diplomavédők
+
+* Egyéb
