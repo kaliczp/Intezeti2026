@@ -1,0 +1,220 @@
+#+TITLE: <2026-07-07 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- CzKo
+- PrPé
+- KiBa
+- ZKKA
+- BrGá
+- BaTa
+- KaPé
+
+** Online
+- HeAn
+- SzBo
+
+** Nincs
+- GrZo
+- SzÁr szabin
+
+* Bevezetés
+Utolsó intézeti értekezlet.
+
+* Kihelyezett intézeti
+Múlt hét csütörtök.
+
+Tímea és segítők. Órizzük a hagyományt.
+
+* Évzáró
+Legnagyobb melegben.
+Doktori oklevelek. Egyéb oklevelek.
+
+Kornél kitüntették.
+
+Ferencz Zoltán.
+
+Csányi lemondott, Csóka Péter helyette, aki ott is volt.
+
+Polgár András hivatalosan oktatási dékánhelyettes.
+
+Biztosok Kornél szerint addig, amíg fel nem áll az új kuratórium és
+szervezet.
+
+Nem egyetemet üzemeltető KEKVak július végéig megszünnek. Megjelent
+egy konkrét dátumokkal egy jogszabály. 2027 az egyetemi.
+
+* Változások Kari Tanács
+Évzáró után a rektor elvitte a dékánokat. Minden kar rendkívüli kari
+tanács ülést tart. Alapvetően személyi dolgok az elsődlegesek.
+
+Vendég oktatók számának csökkentése.
+
+Nálunk gördülő HR terv, Botond egy hete már kutató munkakörbe
+került. Lejárt a SoilSense. Tudományos munkatárs, mint Kati és Andris.
+
+Javasolták egy belépő szintű oktató felvételét. Benke Dénest felvették
+doktori képzésre. Gulyás Gábort is felvették. Fásoktól kaptunk két helyett.
+
+Gulyás Gábor Vérteserdő precíziós, térinformatikai alkalmazás. Vérteserdő
+erdészet vezető. Nem lehet levelező a KDP.
+
+Lehet, hogy a Dénes mellette bekapcsolódik az oktatásba.
+
+Bálint kérdezte Gribovszki Katit. Technikai dolgok
+felvétele. Abdalrahman is csatlakozna. Holnap kiderül (vagy nem).
+Abdalrahman kutató és angol nyelvű oktatásba.
+
+Kari tanáccsal kapcsolatban folyamatosan bővültek a pontok.
+
+** VTK
+Személyügyi fejlesztések, VTK. Viselkedés ökológiai és telemetriai
+csoport.  Botond is benne van. Bende Attila hajtotta. Voltak régiek
+ott, de ez most az új. Célkitűzései.
+
+** EMK ügyrend és SZMSZ
+Ügyrend változása, a kari tanács összetétele. 10-ről 13 fő.
+
+A 13 fő van az SZMSZ kivonatban. Munkáltatói jogkörökről. Július 1-én
+lép hatályba.
+
+Kornél szerint rektor változtatja a döntési jogköröket, a dékáni
+, főigazgató feladatok....
+
+* Vizsgalapok
+Kinyomtatása és aláírása. Pótolni kell, ha gond van.
+
+* Laborok
+Laborok NRRC-vel a helyzet. GT laborral kapcsolatban lesz nagyobb vászon.
+Központi keretből. Teljes szélességet kitöltő, és új projektor is lesz.
+
+Balázs hivatalosan még nem küldte el, esetleg átnézni a szoftvereket,
+hogy egyenesbe kerüljenek.
+
+* Lidar 360
+Illés Gábor a Lidar 360-hoz négy kódot elküldött. Helyi, lokális és személyi kód.
+Mozgatható, de nem olyan egyszerűen. Laborban mindkét gépen fent van,
+egyikre mehet licenc. Gépigényeket nem tudjuk. Oktatási licencek, de van
+korlátozás. Annyi a korlátozás, hogy nem tudsz tetszőleges formátumban
+exportálni, publikációban nem használhatod.
+
+Appli Áron használta.
+
+Pontfelhőből térképezés. Sok mindent tud. Erdős dolgot. Szenzort is
+fejleszt a cég USA.
+
+* Számítógép igény
+RRF-es igények. Négy laptop:
+- Balázs
+- Kati
+- Gábor
+- Géza
+
+Két PC a laborba. Mind a laptop és a PC adott. Fix konfigok vannak.
+
+Lenovo M90S 24" sinc vision és sync pad. ??
+
+* Merevszárnyú tanfolya
+Géza végül nem tudott menni.
+
+Beszámoltak. Lesz még teszt, ahol Gézát is gyorsan kiképzik.
+Multispektrálist visszaküldték. Nem ment. Mindenki egyet repült és
+volt egy bemutató.
+
+Minta adatok az SD kártyákon. A workflow kidolgozása a feladat. A
+tervezés laptopján nem futott az 1200 kép. Csak raw-ban lehet
+fényképezni. P5-ös saját formátumába, nyers 12 bites. Konverziónak
+kétszer nekifutott 1200-ből 120-at konvertált.
+
+Volt elcsúszás az expozíciók és a képek között. Még meg kell fejteni.
+A LiDAR konnyű, saját szoftvere. Csak első visszaverődést rögzített.
+Nem állítottak be. 50 pont/m^2 lett oda-vissza repüléssel.
+
+Még júliusba teszt repülés, Károly vagy Attila a repülésre eljön. Még
+46 napjuk van. Hegyvidéken lehetne.
+
+Hidegvíz-völgy teszt?
+
+Domborzatnál a repülés tervezés, ne állítsunk domborzat követés.
+
+Géza irreálisnak tartja a júliusit. Sok napuk van. Nagyobb gépeken
+fel kell dolgozni.
+
+Balázs a repülési idő elmaradt. 40 perc nem másfél óra. Kell optimalizálni.
+50 m függőleges vagy 25 m-nél billenjen. 10%-ot elvitt az emelkedés.
+
+Tomiék egy órákról beszéltek. Repülési idő teszt kellene.
+
+213 megy ki a 120 fokos ablakon. Az L1 nagyságrendjét tudja.
+
+L3 is nagyobb frekvencia.
+
+Fakitermelő drón, gyérítésre. Erdőfeltárás leszállópályára alakul.
+Régi alaptervek máv rakodó.
+
+* VERGA jelentés
+Leadva. Nem történt titoktartási cucc. Jelentősen többet sikerült
+detektálni, nagy átfedés, jobb radiometria, tavalyi geometria nem volt
+jó, javítva. Bige mit akar, kárpótolni kell (1000 vagy 2000).
+
+Sok tapasztalat jött. Egyes csapatoknál problémák voltak. Nem
+segítették a feldolgozást. Szuper, más paletta, változtattak, kimaradt
+képek.
+
+50 ezer + kép. Duplája a tavalyinak!
+
+Szívesen beszámol.
+
+* Egyéb
+** Agrárminisztérium
+Július végét mondtam.
+** OTP jelentés
+Nem akar Kornél teljes feldolgozást. Nem vették meg a légi lézert.
+Kornél valamit összerak. Nem áll neki feldolgozni.
+
+40 mintapont. 50 volt a terv.
+
+** Adattárolás
+Adattárolás megoldása?
+Ki kellene hajtani, hogy több legyen.
+Nem kell, hogy üljön az adat.
+2-3 10 terás külső vinyó.
+
+50-100 Tera már nagyon húzós. Tükrözni, adatbiztonság?
+
+A kiszolgáló nagyon drága.
+
+** ERB
+Mondtam.
+
+** Envirosense
+Mágnesszalagon dolgoznak. SG szerverük van.
+Szombathelyi cég a DAT kazettákat szerelik. Robotkar.
+
+** Kép feldolgozása nagy gép
+Olyan szervergép, ami szkripteket futtat.
+
+Gábor Dénes konferencia, képi mesterséges intelligencia, modellek lenyúlása.
+Modell bebiztosítása. Tanítókészletet védik, értékes.
+
+Bálint többször mondta, hogy legyen intézeti vagy kari szintű google.
+Googlenél simán ingyenességet kihajtani.
+
+NASA az Amazonnál. Google. Locsmándi Szabolcs?
+
+Sok lehetőség van, iszonyúan drágul, ha napi 8 órában használod.
+Mindenki az adatra megy.
+
+Egyetemi tudás. Kosztka könyvet tudja a ChatGTP.
+
+** Arcanum
+Arcanum jó folyóirat parsoló. Szerzői jog! A sikersztorit Gézáék is építették.
+Pista bácsi is elkezdett velük szkenneltetni, Tímár Gábor.
+Arcanumnál volt Jankó Annamária, hadtörténeti múzeum térképtára. Pista bácsi szkenneltetett
+először térképet. CD, DVD kiadások kataszteri is.
+
+ER mapper ECW technolótiát használták ők is.
+
+Újságot szétszedik és bekötik.
