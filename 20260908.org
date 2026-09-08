@@ -1,0 +1,243 @@
+#+TITLE: <2026-09-01 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- HeAn késik ezért online az elején
+- SzÁr
+- BrGá
+- ZKKA
+- GrZo
+- KaPé
+
+** Online
+
+** Nincs
+- PrPé nagygyak
+- KiBa nagygyak
+- BaTa Budapesten, csak holnap délután lesz
+
+* Bevezetés
+Balázs bejelentette a nagy-gyakorlatot.
+Köszönt mindenkit. Sikeres félév kezdés.
+
+* Félév kezdés
+
+** Tantárgyi követelmények
+Negyedikéig kellett volna feltölteni (elküldeni).
+QR kódot vállaltam.
+Neptunban kurzusnál megjeleníteni.
+
+** CV-s vizsgák
+CV-s tegnapig kiírni.
+Ha most nem tud valaki, akkor a vizsgaidőszakban. Fegyverneki Barnabás újra itt.
+
+** Összdolgozói
+Pénteken 10 órától. Nem derült ki 2 vagy 4 terem.
+
+** Sportnap
+Levelező órák nem maradnak el.
+
+** Szenátusi választás és alakuló ülés
+Lezajlott rendesen. Korda Marci jutott be.
+Nyilvános ülés lesz. Bemutatkozik az új kuratórium.
+
+** Megjött Herceg Andris
+
+** Vendégelőadók
+Nézze át mindenki. Határidő jövő hét szerda.
+Tímea feltöltötte a tavalyiakat.
+
+** Felvétel
+Szeptember 1-től felvehettünk volna intézeti mérnököt és tanársegédet.
+Lehet erdőmérnök és földmérő is. Drónos dolgokkal alátámasztva. Jó lenne,
+ha lenne affinitása.
+
+Benke Dénessel beszélt Kornél és Géza is. Ezen a héten adja meg a választ.
+
+Kiss Rezsőt javasoltam. Felhívni.
+
+Vezdén Koppány is felmerült. Elkezdte a győri közlekedésmérnököt.
+Még nem végzett osztatlan erdőnérnök is.
+
+Gábor javasolta Göncz Miklóst is. Ma vagy holnap. Neki a 10 hetes
+gyakorlatot el tudja számolni a gyakorlatát.
+
+Legjobb doktoranduszokat felvenni.
+
+Tanszéki mérnök az inkább támogató személy lenne. Eszközök, műszerek
+rendbetétele, gyakorlatokra előkészítés.
+
+** Laborok
+Az ügyek gyűrúznek. NRRC kicserélték a monitorokat. A régi monitorok a
+raktárhelységbe be lettek téve.
+
+Monitorok mondtam, hogy ott vannak.
+
+Több különböző bejelentkezés is van.
+
+Új bejelentkezés nrrclab, jelszó nrrclabor. Ez régebbi.
+nrrcad talán megy.
+nrrcoktató heti9876 maradt!
+
+C-ből nehéz a hálózati meghajtókra csatlakozni. Tanári bejelentkezés
+nem ment.
+
+*** gt116
+Vászon még mindig nem lett cserélve. Állítólag be lett szerezve.
+Facsi rakosgatta a régi állványos vásznat.
+P épületből egy csomó motoros vásznat is leszereltek.
+
+Fásoknak van egy régi laborjuk, ami nem olyan leterhelt. Elég jó gépek vannak.
+B épület 2-on a sarokban.
+
+Vigyázni, mert a kapcsoló lenyomja a kismegszakítót. Egy hallgató
+lekapcsolta. Mellette az ajtó elektromos helység. A portás ki tudja
+nyitni.
+
+Tíz kapcsolós hosszabbító. Jellemzően hat aljzatos.
+
+* Konferencia
+GGKI-s konferencia az ionoszféráról.
+Lehet menni, de étkezés ne legyen.
+
+* Jégpálya
+Elkezdték a bozótírtást, Földmunkát keresték. Bálint semmit nem tud róla.
+Szülői értekezleten Zoli megkérdezi. Primusz Peti Szabó Pétertől megkérdezi.
+
+* Parkolóba sátor
+VÉRTES
+A parkolóba sátor kitűzésével. A SEN-re kerül. Géza Tomit adta meg asztán.
+Hová fúrják a sátor lábait. Tavaly kiállt a csavar. Azóta leaszfaltozták.
+
+* BorderEye
+Drónbeszerzés hosszas küzdelem után meghirdetésre kerül. M400 L3, L2,
+ejtőernyő, fedélzeti számítógép 25 mio körül. EU-s közbeszerzésen a
+nagy eszközök miatt.
+
+Jobb hőkamera is benne van. H30T hőkamera. Akkumulátor, akkumulátor töltő.
+
+Merevszárnyú újabb kálváriák. Magasbérci kilágóból követhető. Minden
+szép és jó, erősödött a szél, másikkal repülnek, szél miatt nem. A
+kártyán egyetlen kép sem volt.
+
+LiDAR nem volt feldolgozható. Ott az adat. RGB kamera képei nem
+konvertálhatók. Nyögve nyelős. Mikor lesz operatív?
+
+Velencei tavas repülés. Négy repülés után a baleset. Az első repülés, oda menet
+színes. A sorban fehéren jelez és nincs pontfelhő.
+Alap feldolgozásból sávok nincsennek feldolgozva. Kimaradt részekkel mi van?
+
+Összetájékozás és futtatás. Le kell futtatni. Hosszabb idő. Infósok szeretné feltenni.
+
+Két asztali gép jönne a laborba. Nem annyira komoly gépek.
+
+Laptopot mindenki átvette?
+
+Mi lesz a régiekkel? Két régi a HP, ITAR, ahol Bence ül. Ahová lehet tenni.
+A laborba is kialakulna valami renszer, rend.
+
+Nyomtatók működnek még? Tollas plotter. Ugyan ahhoz a HP géphez
+tartozik. Drón alatt. Minimum 32 éves. Muzeális érték, leltárban is úgy van.
+Sterecord G3 eszközhöz komplexen. Gyakorlat és plotterrel térképet rajzolt.
+Szoftverek kislemezről.
+
+TÜK-be nem fér be semmi. Zárható szekrények a drónoknak. Gépeket a folyosói szekrénybe
+tenni. Négy gép van amit használnak.
+
+Fönt vannak vacak gépek. A régi HP íróasztalra. Van nagy asztal.
+Folyóiratok vannak, könyvtárral selejtezteti Tímea, ha nem kell.
+
+Botonddal Tímea elkezdheti a KDP lezárás után. Balázs csinált egy tök
+jó tervet GoogleSketchUp-ban megvannak. Asztalok is nagyok. Balázsnak
+tök jó terve van a laborra.
+
+Kari keretre át lehet nyomni. A selmeci bútorok is át lettek húzva. A labor
+doktoranduszi helységnek jó. Botond Jóska irodájába vagy Kornélhoz is mehet.
+
+Gábornál van egy hely Pista bácsi asztala. Botondot Gáborhoz ültetni?
+
+Abdalrahman jön.
+
+Emadnak el kellene hagyni az országot? Emad 15 Q1-es cikket
+csinált. Az egyetemnek jól jönne.
+
+* Üzemi gyakorlat
+Nem tudják felvenni a gyakorlatot, mert eltűnt. Gábor megnézi a levelet.
+
+* Szakdolgozat, diploma
+Úgy lesz, ahogy szoktuk. Esztinek megmondja Tímea.
+
+* Minisztérium
+Kornél jó híre, hogy az új minisztériumban nagy volumenű komplex
+projekt formálódik, kísérletezés, vízvisszatartás, karbonkereskedelem,
+felmérés. Évente 1 md Ft az ERTI és Egyetem, karunk.
+
+Tömören, röviden megírni a célokat.
+
+Improve Forest Management. Minden téma benne. Később kerül lebontásra,
+kiolvasásra.
+
+Egyre több erdőállomány, szénkészlet meghatározás, drónos, kézi. Kornél
+elkükdi.
+
+* BorderEye
+Hátralévő részből milyen feladatok vannak.  Mindenki nézze át. Felhő
+alapú pontfelhő feldolgozás. Vannak feladatok, minél előbb ütemezzük.
+
+Legjobb lenne, ha beállna a workflow, lenne ortofotó és LiDAR
+pontfelhő.
+
+** Van házi feladatuk
+Párok és tervező szoftver ingyenes. Utófeldolgozó is ingyenes (de nem
+használható).
+
+Szoftverről nem tudnak mindent. Sebességet sem tudnak állítani. Rajtuk
+keresztül kellene a szoftvert megoldani. Géza szerint hetente jön új
+verzió.
+
+Kornél szerint reklamálni kell. Problémák fent állnak, folyamatosan
+küldik. Dolgoznak rajta...
+
+Jól használható hardver, szoftver. Sürgetik.
+
+Géza szerint nem zuhan le az eszköz, félsiker.
+
+Aksi le volt tiltva. 340 ha-os terület, lassan merül az
+aksi. Szoftveresen eleve 60 perc, most 90 perces volt benne.
+
+Nem volt erős szél, csak a sárgába volt. Szoftveresen letiltva.  Föl
+lehet tenni másfél órára. De ne tegyétek. A LiDAR eszi az aksit.
+
+A széllel kapcsolatban nem érzékeny. Le- és felszállásnál van gond.
+Kicserélték a burkolatot. A másikat is megerősítik. Károly még nem
+jött haza. Most megcsinálják a régit és a tartalékot megerősítik.
+
+Kornéllal beszéltem. Nincsenem most doktorandusz hallgatók. Csináljam
+a feladatom.
+
+* Egyéb
+** Vízgazdálkodás gyak
+Keddi gyakorlatra kellene bejárni segíteni. Két kurzus van egyótt.
+
+** Kutatók éjszakája
+25-én lesz.
+
+** Erfurtiak
+Jönnek a hó végén. Botond szeptember 30-ra tervez programot. 29 és 30
+között.  Van egy BSc diplomaterv. Hanna Müller. Csak ezen a héten jön.
+29-ére nem lehet áttenni? Szeptember 25–30 között érkeznek. 14
+hallgató és két oktató. 25-én délelőtt jönnek.
+
+Súlypont:
+- Fertő
+- biodiverzitás
+- vadászat
+- madár megfigyelés.
+
+Botond lőtér gyakorlópályát tervezi. Délelőtt röpül és délután
+előhívja.  Kornél szerint vigyen kézi lézer szkennert is. Géza
+részéről kedd ok, szerda tele van.
