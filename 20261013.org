@@ -1,0 +1,119 @@
+#+TITLE: <2026-10-13 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- HeAn
+- PrPé
+- KiBa
+- SzÁr
+- BrGá
+- BaTa
+- ZKKA
+- GrZo
+- KaPé
+
+** Online
+
+** Nincs
+
+* Konferencia
+Hamarosan kezdődik.
+
+* Alaphálózat
+Sikeresen lezajlott. Lesz folytatása. Előadások elérhetők lesznek.
+
+* Beszerzési terv
+Le kellett adni. Sok összevisszaság és variálás volt. Reméljük jól sikerült leadni.
+Nem derült ki mi kell, mi nem kell.
+
+Hordozható multiméter bennemaradt.
+
+Utasok fúrója is benne volt.
+
+Felsőrendű szintező bele került. Robot mérőállomás.
+
+Drónfejlesztés, számítógépek, bútorok.
+
+Tímea mondta a labor fém zárható szekrények a drónokhoz.
+
+Munkaruházat, útdíj, tagságik. Reméljük semmi fontos nem maradt ki.
+
+* BorderEye
+Pénteken feldolgozási valamije volt. Online börze. Sok mindenben előre
+lépés, de lassan hadt.  Pénteken lenne a záró rendezvény. Online fájl
+van nekki. Megosztott ppt, jobb felül szerkesztendő.
+
+Lenne kiadvány belőle. Záróképek.
+
+* HunEdu
+Mikor lenne lehetőség, hogy házon belül legyen egyeztetés. Ronczik
+Levente kért megbeszélést.
+
+A héten összejönni. Ma konferencia. Szerda.
+
+Van a tananyaghoz sablon, korábbi tananyagot átültetni angol nyelven.
+
+Újtárgyaknak megvannak a gazdái.
+
+Holnap 11-től megbeszélés.
+
+* Erdőállomány Adattár
+Kornél elküldte az adattár 2025-ös változatát. Elég jelentős lépés!
+2016 os volt. 5 mio Ft-ba került. Adatok 20%-a van itt. Nem teljeskörű.
+
+Legalább Soproni-hegy TERI hozzáférés. Onlineok nem mennek.
+
+* Terem kábel
+Most cserélik. Pár hónapos volt, de nem megy.
+
+* Labor
+GT egyre ramatyabb. Géza nem tudja az állást. Nem lettek
+frissítve. Windows 10.  Windows 11-et meg kellene próbálni. Géza
+szerint esélytelen, hogy most megcsinálják. Magas a kihasználtság.
+
+Órákat áttenni az NRRC-be áttenni? Ott is nagy a terheltség. Valakinek
+kellene mondani, hogy meg kell csinálni.
+
+Másik kar?
+
+Digitális tantermek, jó a terem. Gépek nincsenek.
+
+A stúdió kapcsán volt a fizetés és a karok kapnak időkeretet, azon
+fölül fizetni kell.
+
+Saját gép használatának hátrányai.
+
+* Andris és Tímea
+Örülünk, hogy visszatértek.
+
+* Hallgatói kitüntetések
+Még lehet van pár nap.
+- dékáni
+- rektori
+- kiváló hallgató
+
+November 1-től fél állás.
+
+Göncz Miklós másik TDK GPS-t rakott össze.
+
+Kerti Bálint minden be részt vesz.
+
+* Hídvégi Béla
+Múzeumban lesz, lehet vele találkozni.
+
+* Műszer telepítés
+Optimizmus volt. 3 telepítés történt a hatból. Nem tudott Miklós
+átmenni a köveken. Béla geológus. A hét második felét javasolta Béla.
+
+* Border Eye adatok
+Teljes körű phase 1 van, de konvertálás ment 8 órát Géza leállította.
+Pontfelhőnél van valami, export nem lett. Egy kattintásos feldolgozás megvan.
+
+* Egyéb
+** Digitális aláírás
+Géza mondta, hogy lehet.
+Tomi mondott egyet 30 e Ft-ért.
