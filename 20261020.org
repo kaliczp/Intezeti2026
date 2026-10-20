@@ -1,0 +1,135 @@
+#+TITLE: <2026-10-13 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- HeAn
+- PrPé
+- KiBa
+- SzÁr
+- BrGá
+- BaTa
+- ZKKA
+- GrZo
+- KaPé
+
+** Online
+- SzBo
+
+** Nincs
+- CzKo MÁV konferencia
+
+* Erdők útjai konferencia
+Géza szerint színvonalas, széles körből merítettek.
+
+A 2026 év kerékpárútja. Szervező a Pilisi Parkerdő.
+
+Az erdő néma mondta az államtikár helyettes Ferencz.
+
+Botond volt a tanulmányúton. Írottkő Natúrpark osztrák oldala. Vad és
+szárazság.  Bükk újulatot nem győzik írtani. Tölgyet akarnak. Rohonc
+mellett akadálymentesített kilátó.
+
+* BorderEye záró
+Pénteki esemény. Nem akart felszállni a drón.
+Lepottyant szenzorral nem akart felszállni, nem kommunikált. Másik szenzor.
+IMMU magnetométer összeszerelve, szétszerelve, egy óra után felszállt. Sima
+repülés. Másik repülés. Megszerelték a LiDAR szenzort másik tartóva ment.
+
+Még van másfél hét a képzésből.
+
+Mikor tudnak közös időpontot találni?
+
+Lesz még repülés, feldolgozva?  Pénteken a pontfelhő meglett, de csak
+egy részén, utána nem voltak sávok. Géza úgy gondolja, hogy nagyobb területeke
+nem érdemes megcélozni. Teljes feldolgozás nem jött össze.
+
+Mindent kipróbáltak. Ahol nincs track, az gáz. Csak egy része lett meg.
+L1-el repülni, vagy Stonex.
+
+Van L1-es pontfelhő. Merevszárnyú nem. Vagy Velencei tó. Keleti harmada.
+Régebbi LiDAR. Ami meglett az meglett. Partvonalat keresünk.
+
+Online műveleti engedélyes dolog.
+
+* Szakestély 1956
+Jánoska Feri az oktatói elnök. Diáknak adták át a tisztséget.
+
+Kanadából eljött egy 94 éves kolléga. Beszélt az új életet.
+
+Fél szakest Bartha Dénesről szólt. 200 ember volt. Miskolcról is voltak.
+
+Kovács Áron kontra.
+
+* További 1956
+Pénteken kilátó avatása (volt Hubertus)
+10 től lesz
+
+Veterán járművekkel mennek ki és csatlakoznak az ünnepséghez.
+
+GPS koordinátát adtak meg. Akár intézetileg ki lehet menni.
+Még valami.
+
+* Szakdolgozat
+Géza írt. Eléggé el vagyunk maradva.
+
+Maradjon bent Viola. Kornélnak vannak?
+
+* Oktatási ügyek
+Több hallgató is kérdezte? Hallgatóknak sem ment tájékoztatás.
+Lesznek gyakorlatok. Jó lett volna tájékoztatás.
+
+Valaki tervez valamit?
+
+Primusz Péter szerint egy hallgató kiakadhat.
+
+* Záróvizsga, szakdolgozat vége.
+Néhány tétel módosult. Gribovszki Kati szívesen ott lenne.
+Lecsökkent két főre a bizottság. Beírta Tomi a szokásost.
+Major Robi a külső tag. Mérnökgeodézia miatt van szerződése.
+
+Védések január 5-től 7-ig. (kedd-csütörtök)
+Záróvizsga január 11-től.
+
+* Beszerzés
+Elmaradt nagy drónos beszerzésnél kisebb hullámok keletkeztek. Az
+Egyetem úgy küldte ki az árazótáblát, hogy egy sor hiányzott. Kevés
+számszakilag hibátlan.
+
+* Oktatás még
+Jövő félévi órarendi igények. Ezzel kapcsolatban az a javaslat, hogy Gábor
+Tímea, én összeszedjük a dolgokat. 26-a a határideje.
+
+Tímea csütörtök reggel kiküldi a táblázatot.
+
+Gábor földmérési igényeket összegyűjti. Szól, ha kész.
+
+* BorderEye még
+Nem találkoznak, de vizsgázni kell! Pénteken ütemeznek repülést.
+
+Egy gombos feldolgozást csináltak a hegyi. A Velencei-tó OK!
+
+* HUNEDU
+Szalai Áron státuszolni kell.
+Hogyan áll? ALS megbeszélés alatt.
+
+Kornél el akarja indítani a szerződést.
+
+ArcGIS licenc van, van leírás. Kornélnak kell. Van egy
+leírás. Laborszinten nem működik. Illés Gábor leírást géza küldi.
+
+Lidar 360-ból is vannak licencek. Van több is. Utasoknak mondta. Jó az
+utas modul. Egyesfa modul. Hátsó gépen van licenc.
+
+* Egyéb
+** Interreg projekt
+- botankert becsatornázása
+- lézeres felmérés
+Pontfelhő alapján domborzatmodell. Osztrákoknál nem olyan vészes a repülés.
+  
+** Brno
+Péter Kupecz, akar valakit küldeni.
+
+** Bajóczi Ádám munkája
+Fedő sztori a Marteloszkóphoz.
