@@ -1,0 +1,201 @@
+#+TITLE: <2026-11-17 k>
+
+* Jelen
+** Helyben
+- KiGé
+- HoTi
+- SzBo
+- CzKo
+- PrPé
+- KiBa
+- SzÁr
+- BrGá
+- BaTa
+- GöMi
+- GrZo
+- KaPé
+
+** Online
+
+** Nincs
+- HeAn HVV
+- ZKKA HVV
+
+* Yanes védés
+Kornél vállalja.
+Kedd-szerda-csütörtök jobb. Kedd délután jó.
+
+* Miklós bemutatkozik
+Szakdolgozat leadása, műszaki dolgok érdeklik.
+
+Bekapcsolódott a szenzortelepítésbe.
+Jelenleg félállás és szerda-csütörtökön jelentkezik.
+
+* Agócs tűra
+Kevesen voltak.
+
+* Szakdolgozatok
+E hét péntek a hivatalos leadás.
+Bajnóczy Ádám és Csontos Zsófia utólagos jelentkezés.
+
+Táblázat kitöltése hézagos. Dolgozat címe és hallgató elérhetősége,
+ahonnan hiányzik.
+
+Panna adatok még nem lettek letöltve.
+
+* Beke Márton elköszönt
+Elment az egyetemről. Írt egy köszönő levelet. Tempustól jöttek és
+oda mentek vissza Bokodi Szabolccsal.
+
+Amikor a rektorral volt itt.
+
+Ósz szakállú fekete szemüveges.
+
+* Politikai változásk
+Helyettes államtitkárt lemondatták.
+Nem ment el rendezvényekre, talán Nagy Dani az illetékes.
+
+Nagy feszültségek vannak az Élőkörnyezeti minisztériumba.
+Az elmúlt 100 évet szapulta a miniszter OEE korrekt reakciója.
+
+Más szempontból látják. Nem tudják felfogni, hogy az erdőt ki kell
+vágni. Legtöbb ember nem tudja felfogni a fa korát.
+
+Ki kell rakni a táblát!
+
+Meg kellene érteni a fajsúlyos embereknek.
+
+Gajdos normálisan indított, moratórium volt az első. OEE
+vándorgyűlésen volt az első gesztus, de utána leszidták. Sokan
+beindultak, nagyon jól ellenálltak.
+
+NGO-k szítják a tüzet. WWF fizeti őket. Szlovákiában sok helyen meg
+sem tudnak mozdulni. Osztárkok sokkal jobb helyen
+vannak. Természetközeli több pénzt kap. Svájcban nagy támogatás a
+természetközelieknek. Nálunk van Natura támogatás.
+
+Másod diplomát kell szerezni!
+
+Nemzetiparkoknak nem kell erdő. NPI tiltja a fakitermelést a
+gazdálkodóknak. Letiltották az éves fakitermelési tervet, védett fajok
+előkerülnek.
+
+Meglátjuk mi lesz.
+
+* Bartha 70
+Ünnepi ülés lesz a Ligneumban 13-tól. Regisztrációhoz kötött.
+
+* Mérnöki kamara
+Most pénteken lesz, Andris és Géza érintett. Budapesten lesz.
+
+Pálinka is lesz.
+
+* Laborok
+Hétfő esti gyakorlattal átment az NRRC-be.
+
+** GT vs NRRC
+Kornélnak 15 ment a 16 ból. Indított hibajegyet Áron. Zsolt levelét.
+
+12-es gépet újra kell telepíteni. Cserére érintett. Több gépet megoldottak,
+ne húzkodjanak egereket, hibás driver csere. 12-es kiesett. Egerek is eltüntek.
+Kábelt is eltörtek.
+
+Hétfőn a fásoknak van órája. Széthúzzák és nem dugják vissza.
+
+NRRC-ben frissítettek grafikus kártya drivert, az AutoCAD miatt.
+
+** AutoCAD
+
+Megkeresés jött a dékáni felé.
+
+Socó Gábor okleveles természetvédelmi mérnök NKE levelező. Civil3D szoftver futna,
+egyetemi számítógép. Nincs benne az oktatási csomagban. Civil3D-ből nincs online.
+
+Carlson, mint alternatíva. Utasok nem vezették be. Specializáción esetleg.
+
+** Lidar 360 és kislabor
+
+Lidar360-al mi legyen. Kislaborban is frissítettek a gépeken, driverek, quantumos
+szoftverek fugro viewer, terra frissítés, de name működik a Lidar 360.
+Nem is frissítették. Lehet előbb frissíteni kellene. Csóka Zsolt csinálta.
+
+Valamikor volt siker, de más belépett és ott nem ment.
+
+Rá kerll bízni.
+
+Egy hetes demó van.
+
+* Intézeti karácsony
+Időpont lefixálódott. December 17 csütörtök. A táblázatba beírni, ki-mit hoz a batyuban?
+
+* MTA Geoinformatikai tudományos bizottság
+Rózsa Szabolcs elnök, Papp László titkár.
+Mentes Gyula kikerült a bizottságból.
+
+* Penc
+Varga Márta Flóra második erdészeti téma: Dobó adott elő. Múltkor Tímár Gábor.
+Gábor mondta: Nem célja a geodéziára korlátozódás. Ismeretterjesztő előadás.
+
+* BLK
+OrtoGraph BLK360-ja. Az Ipad-on ez volt. Magyar szoftver, regisztráció
+is megcsinálható.
+
+Miklós szívesen megnézi. Volt egy Leica-s címkézett. Ez nagyon
+alaprajzos volt, a Leica másikat. A cég ugyan az volt mögötte.
+
+Van AutoCAD ReCap (ReScan).
+
+* BorderEye
+Kornél most beszélt a Dórival, 15-én tervezték, két időszakról
+beszámolni. Január-április eleje bérbeszámítás, novemberig
+többletfeladatok november 30-ig határidős.
+
+Abdalrahman 21-én jön vissza.
+
+** Titkos küldtés
+Phase 1-os képek nagy átfedés, Agisoft és terra nem volt gond. Eredeti koordináták,
+még nem a javított.
+
+Qube 640 voltak problémák, kimaradtak fényképek. Szervízbe visszaviszik.
+
+Feldolgozásban ki, hogyan vesz részt. Flight logok, sensorok nem lettek letöltve,
+kell a post-processhez. Szoftver nem tud csatlakozni a szervezhez a frissítés miatt.
+
+** L3, L2, Matrice 400, fedélzeti számítógép ejtőernyő
+Tegnap szerződés lett kötve az új beszerzésekre.
+November 30-ig mindent nem tudnak szállítani. XCopy cégtől lesz.
+
+Szoros verseny MyActionCAM volt a második legalacsonyabb. Annyi gond volt.
+
+Három meghívásos a jó nincs egybeszámítás három meghívott.
+
+* Szekrények
+Labornál kiment nov 19-ig ment a cégeknek. Plottert még nem kérdezte meg. Régi plotterrel
+mi legyen. Hátra kirakják. Miklós sok mindent pakolt. Mi fér be a lépcső alá?
+
+Folyosóra kirakják, ne vigyék el papírral.
+
+19-én kierült, és szállítják. Nagy zöld fém dobozok. Szembe alul. Kisebbek felmehetnek.
+
+* Digitális tananyag
+Még ha régi, nem használt formsba felvinni.
+
+* Egyebek
+** Tanársegédi hely
+Kutató sok van.
+- Andris
+- Kati
+- Botond
+- Abdalrachman
+
+Inkább az oktatásba kellene valaki. Házon belül nyitott valaki a
+csoportosításra, lehet sakkozgatni.
+
+Olyan, akinek nincs fokozata, de hajlandó a fokozatot megszerezni, be
+kell simulnia.
+
+Földmérő hallgatók közül Bedics István lehetne. Ő hajlandó lenne. Másfél év,
+MSc nem előírás-e? Lehet, hogy szükséges.
+
+Benke Dénes Piliscsabán bejár. Kötelező óráira jön, tervezi a
+felmérési hálózatot.
